@@ -15,3 +15,10 @@ The HTML5 version of ProjectWhiteboard is hosted on Github Pages: https://pertur
 For Mobile users, it is recommended to [add ProjectWhiteboard to homescreen](https://support.google.com/chrome/answer/9658361?hl=en&co=GENIE.Platform%3DAndroid&oco=0) - this will install it as a Progressive Web App that looks better and can run without an internet connection.
 
 **Clearing your browser cache will result in the loss of all savefiles.**
+
+## Other Links
+ProjectWhiteboard is available for the following platforms:
+
+Android : https://github.com/perturbedpingu/projectwhiteboard_android
+
+Windows : https://github.com/perturbedpingu/projectwhiteboard_windows
